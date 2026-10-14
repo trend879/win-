@@ -1,0 +1,8 @@
+{
+  "name": "TechSpin Rewards - Lucky Wheel & Prize Simulator",
+  "description": "An interactive lucky wheel simulator and celebratory reward game featuring premium tech gadgets, real-time physics spin, celebratory confetti, and prize claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
